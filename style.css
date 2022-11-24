@@ -134,7 +134,7 @@ button{
 .menu-item img:hover{
     transition: .1s;
     border-radius: 2%;
-    width: 60%;
+    width: 46%;
         
 }
 .caption {
@@ -202,6 +202,25 @@ button{
     margin-bottom: 5%;
     margin-top: 5%;
 }
+.menu-item .order{
+    text-decoration: none;
+    color:#c8a27d;
+}
+.menu-item .order:hover{
+    color:#7e3d21f1;
+    font-size: 17px;
+    transition: .3s;
+}
+.menu-item1 .order{
+    text-decoration: none;
+    color:#c8a27d;
+}
+.menu-item1 .order:hover{
+    color:#7e3d21f1;
+    font-size: 17px;
+    transition: .3s;
+}
+
 
 /*Contact US*/
 .reach-bg{
