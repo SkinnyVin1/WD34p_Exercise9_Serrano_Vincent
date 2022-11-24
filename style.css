@@ -122,7 +122,7 @@ button{
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 630px;
+    width: 550px;
 }
 .menu-item img {
     width: 300px;
@@ -134,7 +134,7 @@ button{
 .menu-item img:hover{
     transition: .1s;
     border-radius: 2%;
-    width: 46%;
+    width: 55%;
         
 }
 .caption {
@@ -160,7 +160,7 @@ button{
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 630px;
+    width: 550px;
    
 }
 .menu-item1 img {
@@ -173,7 +173,7 @@ button{
 .menu-item1 img:hover{
     transition: .1s;
     border-radius: 50%;
-    width: 60%;
+    width: 55%;
 }
 .caption {
     display: block;
@@ -202,24 +202,7 @@ button{
     margin-bottom: 5%;
     margin-top: 5%;
 }
-.menu-item .order{
-    text-decoration: none;
-    color:#c8a27d;
-}
-.menu-item .order:hover{
-    color:#7e3d21f1;
-    font-size: 17px;
-    transition: .3s;
-}
-.menu-item1 .order{
-    text-decoration: none;
-    color:#c8a27d;
-}
-.menu-item1 .order:hover{
-    color:#7e3d21f1;
-    font-size: 17px;
-    transition: .3s;
-}
+
 
 
 /*Contact US*/
@@ -233,7 +216,7 @@ button{
     background-size: cover;
 }
 .reach{
-    background:#7e3d21f1;
+    background:#7e3d21f8;
     margin: auto;
     text-align: center;
     padding-top: 5%;
